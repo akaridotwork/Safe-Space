@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c14cc302d0d6060439ce800e93ca8067
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Knop1: {instanceID: 0}
+  - Knop2: {instanceID: 0}
+  - Knop3: {instanceID: 0}
+  - Knop4: {instanceID: 0}
+  - keypad: {instanceID: 0}
+  - player: {fileID: 4614838820822732974, guid: 6fb076006f4161b4bb353a5b3e3f5d1a, type: 3}
+  - MainScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
