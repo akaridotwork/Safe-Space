@@ -15,12 +15,6 @@ public class MainMenu : MonoBehaviour
         settingsScreen.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void StartGame()
     {
         SceneManager.LoadScene(firstWorld);
@@ -39,6 +33,6 @@ public class MainMenu : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
-        Debug.Log("Game Quit.");
+    //  Debug.Log("Game Quit.");
     }
 }
